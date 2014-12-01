@@ -1,0 +1,10 @@
+<?php
+/*
+ * @CODOLICENSE
+ */
+
+class plugins {
+
+    
+    
+}

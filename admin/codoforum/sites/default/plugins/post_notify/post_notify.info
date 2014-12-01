@@ -1,0 +1,7 @@
+name = Uni Login
+description = Provides option to sign in with FB/Twitter etc
+version = 1.x
+author = Adesh D'Silva
+author uri = http://codologic.com
+license = GNU GPL V3
+core = 1.x
