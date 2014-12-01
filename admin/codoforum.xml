@@ -37,7 +37,7 @@
             <file charset="utf8" driver="mysql">sql/uninstall.mysql.utf8.sql</file>
         </sql>
     </uninstall>-->
-    <scriptfile>installer.php</scriptfile>
+
     <administration>
         
         		<!-- Administration Menu Section -->

@@ -1,4 +1,4 @@
-CREATE TABLE IF NOT EXISTS `codopm_config` (
+CREATE TABLE IF NOT EXISTS `codoforum_config` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `option_name` varchar(50) NOT NULL,
   `option_value` text NOT NULL,

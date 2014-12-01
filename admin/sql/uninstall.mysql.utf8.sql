@@ -1,2 +1,1 @@
-DROP TABLE IF EXISTS `codopm_messages`;
-DROP TABLE IF EXISTS `codopm_config`;
+DROP TABLE IF EXISTS `codoforum_config`;

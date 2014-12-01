@@ -9,9 +9,9 @@
 	<license>GNU/GPL Version 3 or later - http://www.gnu.org/licenses/gpl-3.0.html</license>
 	<version>1.0</version>
 	<description><![CDATA[
-		<h1>codoforum V.1.0</h1>
+		<h1>codoforum SSO V.1.0</h1>
 		<div style="clear: both;"></div>
-		<p>Modern forum system <strong>Built for Joomla 2.5 , 3.X.</strong></p>
+		<p>SSO plugin for integrating <a href="https://codoforum.com">Codoforum</a> with your website
 		<p>Created by <a href="http://codologic.com" target="_blank">CODOLOGIC | codologic.com</a>
 	]]></description>
 
@@ -19,6 +19,7 @@
     <files>                
 
         <filename>codoforum.php</filename>
+        <filename>sso.php</filename>
         <filename>error.php</filename>
         <filename>README.md</filename>
         <filename>codoforum.xml</filename>

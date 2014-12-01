@@ -1,8 +1,7 @@
 								CODOFORUM
 
 
-CODOPM is a modern and beautiful forum software developed for Joomla . 
-
+Integrate your website with Codoforum using this SSO integration Joomla component
 
 Requirements:
 PDO-MYSQL must be installed.

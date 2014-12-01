@@ -1,7 +1,0 @@
-name = Single Sign On
-description = SSO with auto-login
-version = 1.x
-author = Adesh D'Silva
-author uri = http://codologic.com
-license = GNU GPL V3
-core = 1.x
