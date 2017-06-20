@@ -4,8 +4,8 @@
 Integrate your website with Codoforum using this SSO integration Joomla component
 
 Requirements:
-PDO-MYSQL must be installed.
-PHP 5.3
+- PDO-MYSQL must be installed.
+- PHP 5.3 or above
 
 Installation:
 
